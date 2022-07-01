@@ -1,3 +1,5 @@
+<meta content="Resume Scanning with python/Tensorflow using machine/Deep laerning"></meta>
+
 # Resume Screening/Scanning <br/> 
 Writing a resume is not a trivial task, especially when it comes to the right selection of keywords. <br/>
 People spend hours writing and formatting the perfect resume. <br/>
